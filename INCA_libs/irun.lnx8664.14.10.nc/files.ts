@@ -1,0 +1,2 @@
+1586661485 /home/yuhong/DIC/DIC2020/DIC_HW2/div_tb.v
+1586837159 /home/yuhong/DIC/DIC2020/DIC_HW2/div.v
